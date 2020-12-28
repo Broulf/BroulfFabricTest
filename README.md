@@ -1,4 +1,5 @@
 # Broulf's Fabric Test Mod
+brofabtest is a beginning mod index for anyone to use and adjust to create their own fabric mod, this is for the Fabric mod loader and will be updated regularly as I learn the Fabric modding API.
 
 ## Setup
 
