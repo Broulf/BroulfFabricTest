@@ -1,9 +1,9 @@
-# Fabric Example Mod
+# Broulf's Fabric Test Mod
 
 ## Setup
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+For setup download the code via GitHub Desktop, or as a zip file. Generate the sources that are nessecary and the src folder should be the base of the code in org.broulf.test
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This template is available under the MIT license. Feel free to learn from it and incorporate it in your own projects.
