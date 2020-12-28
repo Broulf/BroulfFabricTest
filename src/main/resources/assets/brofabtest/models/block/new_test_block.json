@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "brofabtest:blocks/new_test_block"
+  }
+}

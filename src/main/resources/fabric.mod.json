@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "brofabtest",
+  "version": "${version}",
+
+  "name": "Fabric Test Mod",
+  "description": "Trying out Fabric modding for the first time.",
+  "authors": [
+    "Broulf"
+  ],
+  "contact": {
+    "homepage": "https://broulf.org",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "mit",
+  "icon": "assets/brofabtest/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "org.broulf.test.Main"
+    ]
+  },
+  "mixins": [
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

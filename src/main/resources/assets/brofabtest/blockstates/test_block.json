@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "brofabtest:block/test_block" }
+  }
+}

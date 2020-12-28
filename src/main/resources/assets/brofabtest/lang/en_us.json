@@ -1,0 +1,8 @@
+{
+  "item.brofabtest.test_item": "Test Item",
+  "item.brofabtest.new_test_item": "New Test Item",
+  "block.brofabtest.test_block": "Test Block",
+  "block.brofabtest.new_test_block": "New Test Block",
+  "itemGroup.brofabtest.test_group": "Test Group",
+  "itemGroup.brofabtest.new_test_group": "New Test Group"
+}
