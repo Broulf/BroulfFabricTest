@@ -10,7 +10,7 @@ public class NewTestBlock extends Block {
 
     public NewTestBlock() {
         super(FabricBlockSettings
-                .of(Material.EGG)
+                .of(Material.METAL)
                 .breakByTool(FabricToolTags.PICKAXES, 2)
                 .requiresTool()
                 .strength(5.0f, 30.0f)
