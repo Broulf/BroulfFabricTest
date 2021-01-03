@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " T ",
+    "   "
+  ],
+  "key": {
+    "T": {
+      "item": "brofabtest:test_block"
+    }
+  },
+  "result": {
+    "item": "brofabtest:new_test_block",
+    "count": 1
+  }
+}

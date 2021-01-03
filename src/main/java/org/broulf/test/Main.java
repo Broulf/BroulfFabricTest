@@ -5,6 +5,7 @@ import net.fabricmc.fabric.api.client.itemgroup.FabricItemGroupBuilder;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
 import net.minecraft.util.Identifier;
+import org.broulf.tabs.NewNewTestGroup;
 import org.broulf.test.registry.ModBlocks;
 import org.broulf.test.registry.ModItems;
 
@@ -24,6 +25,7 @@ public class Main implements ModInitializer {
                 new Identifier(MOD_ID, "test_group"),
                 () -> new ItemStack(ModItems.TEST_ITEM)
         );
+
         //Creative Tab with custom load order
         NEW_TEST_GROUP = FabricItemGroupBuilder.create(
                 new Identifier(MOD_ID, "new_test_group"))
