@@ -5,7 +5,6 @@ import net.fabricmc.fabric.api.client.itemgroup.FabricItemGroupBuilder;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
 import net.minecraft.util.Identifier;
-import org.broulf.tabs.NewNewTestGroup;
 import org.broulf.test.registry.ModBlocks;
 import org.broulf.test.registry.ModItems;
 
