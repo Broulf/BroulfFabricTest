@@ -5,6 +5,7 @@ import net.minecraft.item.Item;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
 import org.broulf.test.Main;
+import org.broulf.test.items.NewNewItem;
 import org.broulf.test.items.NewTestItem;
 
 public class ModItems {
@@ -15,6 +16,7 @@ public class ModItems {
 
     //Initializes Items through a new class in org.broulf.test.items
     public static final Item NEW_TEST_ITEM = new NewTestItem();
+    public static final Item NEW_NEW_ITEM = new NewNewItem();
 
     //Initializes the Block Items
     public static final BlockItem TEST_BLOCK;
